@@ -1,5 +1,7 @@
 # Benchmark test mySQL on Azure VM 
 
+## Currently in preparation... Test environment not yet configured!
+
 Ref) 
 https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/benchmarking-azure-database-for-mysql-flexible-server-using/ba-p/3108799
 
